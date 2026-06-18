@@ -1,6 +1,8 @@
 # AmazonClone
 A frontend clone of Amazon's homepage built using HTML and CSS. This project replicates the layout and design of Amazon's user interface, helping strengthen skills in web development, responsive design, Flexbox, and CSS styling.
 
+##Live demo
+ https://abhasinghbaghela.github.io/AmazonClone/
 ## Features
 - Amazon-style navigation bar
 - Search bar with category selection
